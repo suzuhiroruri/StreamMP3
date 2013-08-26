@@ -1,0 +1,382 @@
+TStreamMP3
+v5
+r1
+cCheck dependencies
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/ResourceRules.plist
+cProcessInfoPlistFile /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/Info.plist StreamMP3/StreamMP3-Info.plist
+cProcessPCH /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Intermediates/PrecompiledHeaders/StreamMP3-Prefix-eawsfeepfmjhfceozcpmvjvpygqu/StreamMP3-Prefix.pch.pth StreamMP3/StreamMP3-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/StreamMP3/Build/Intermediates/StreamMP3.build/Debug-iphoneos/StreamMP3.build/Objects-normal/armv7/AppDelegate.o /Users/newsuzukihiromasa/Desktop/StreamMP3/StreamMP3/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/StreamMP3/Build/Intermediates/StreamMP3.build/Debug-iphoneos/StreamMP3.build/Objects-normal/armv7/ViewController.o /Users/newsuzukihiromasa/Desktop/StreamMP3/StreamMP3/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/StreamMP3/Build/Intermediates/StreamMP3.build/Debug-iphoneos/StreamMP3.build/Objects-normal/armv7/main.o /Users/newsuzukihiromasa/Desktop/StreamMP3/StreamMP3/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/StreamMP3 normal armv7
+cGenerateDSYMFile /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app.dSYM /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/StreamMP3
+cCopyPNGFile /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/Default.png StreamMP3/Default.png
+cCopyStringsFile /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/en.lproj/InfoPlist.strings StreamMP3/en.lproj/InfoPlist.strings
+cCopyPNGFile /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/Default@2x.png StreamMP3/Default@2x.png
+cCopyPNGFile /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/Default-568h@2x.png StreamMP3/Default-568h@2x.png
+cCompileXIB /Users/newsuzukihiromasa/Desktop/StreamMP3/StreamMP3/en.lproj/ViewController.xib
+cProcessProductPackaging "/Users/newsuzukihiromasa/Library/MobileDevice/Provisioning Profiles/EA0C47AC-0540-45FD-A882-C289BDFD862D.mobileprovision" /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/embedded.mobileprovision
+cProcessProductPackaging "/Users/newsuzukihiromasa/Library/MobileDevice/Provisioning Profiles/EA0C47AC-0540-45FD-A882-C289BDFD862D.mobileprovision" /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/embedded.mobileprovision
+cTouch /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app
+cProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Intermediates/StreamMP3.build/Debug-iphoneos/StreamMP3.build/StreamMP3.xcent
+cCodeSign /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk
+c0000000051BC19820000000000000110
+t1371281794
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist
+c00000000512CF0E500000000000001A7
+t1361899749
+s423
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist
+c00000000512CF0E500000000000001E5
+t1361899749
+s485
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000512CF0E80000000000322700
+t1361899752
+s3286784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000512CF0E9000000000062AD10
+t1361899753
+s6466832
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c00000000512CF0E800000000000015F7
+t1361899752
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c00000000512CF0EA0000000000000E8D
+t1361899754
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000512CF0EE00000000011BCDF0
+t1361899758
+s18599408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/Availability.h
+c00000000512CF0F20000000000001B73
+t1361899762
+s7027
+
+N/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Intermediates/PrecompiledHeaders/StreamMP3-Prefix-eawsfeepfmjhfceozcpmvjvpygqu/StreamMP3-Prefix.pch.pth
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Intermediates/StreamMP3.build/Debug-iphoneos/StreamMP3.build/Objects-normal/armv7/AppDelegate.o
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Intermediates/StreamMP3.build/Debug-iphoneos/StreamMP3.build/Objects-normal/armv7/StreamMP3.LinkFileList
+c00000000521AC4A600000000000001F1
+t1377485990
+s497
+
+N/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Intermediates/StreamMP3.build/Debug-iphoneos/StreamMP3.build/Objects-normal/armv7/ViewController.o
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Intermediates/StreamMP3.build/Debug-iphoneos/StreamMP3.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Intermediates/StreamMP3.build/Debug-iphoneos/StreamMP3.build/StreamMP3.xcent
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app.dSYM
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/Default-568h@2x.png
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/Default.png
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/Default@2x.png
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/Info.plist
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/PkgInfo
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/ResourceRules.plist
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/StreamMP3
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/embedded.mobileprovision
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/en.lproj/ViewController.nib
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/StreamMP3/StreamMP3/AppDelegate.m
+c00000000521AC14C000000000000090B
+t1377485132
+s2315
+
+N/Users/newsuzukihiromasa/Desktop/StreamMP3/StreamMP3/Default-568h@2x.png
+c0000000050262AB100000000000048A2
+t1344678577
+s18594
+
+N/Users/newsuzukihiromasa/Desktop/StreamMP3/StreamMP3/Default.png
+c0000000050262AB1000000000000198C
+t1344678577
+s6540
+
+N/Users/newsuzukihiromasa/Desktop/StreamMP3/StreamMP3/Default@2x.png
+c0000000050262AB10000000000003EEB
+t1344678577
+s16107
+
+N/Users/newsuzukihiromasa/Desktop/StreamMP3/StreamMP3/StreamMP3-Prefix.pch
+c00000000521AC14C0000000000000141
+t1377485132
+s321
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/newsuzukihiromasa/Desktop/StreamMP3/StreamMP3/ViewController.m
+c00000000521AC3A700000000000002F2
+t1377485735
+s754
+
+N/Users/newsuzukihiromasa/Desktop/StreamMP3/StreamMP3/en.lproj/InfoPlist.strings
+c00000000521AC14C000000000000002D
+t1377485132
+s45
+
+N/Users/newsuzukihiromasa/Desktop/StreamMP3/StreamMP3/en.lproj/ViewController.xib
+c00000000521AC4770000000000004888
+t1377485943
+s18568
+
+N/Users/newsuzukihiromasa/Desktop/StreamMP3/StreamMP3/main.m
+c00000000521AC14C000000000000015C
+t1377485132
+s348
+
+N/Users/newsuzukihiromasa/Library/MobileDevice/Provisioning Profiles/EA0C47AC-0540-45FD-A882-C289BDFD862D.mobileprovision
+c0000000051DBC2130000000000001D36
+t1373356563
+s7478
+
+NStreamMP3/StreamMP3-Info.plist
+c00000000521AC14C0000000000000490
+t1377485132
+s1168
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/StreamMP3/StreamMP3/AppDelegate.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/StreamMP3/StreamMP3/ViewController.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/StreamMP3/StreamMP3/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies31b24426fccab741^446c9826fccab741^---0#1#0#--18"Check dependencies36"9A7ECC3C-902A-4B45-8E67-514970450413-
+
+CCodeSign /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app
+s399178794.717436
+e399178795.334542
+r1
+xCodeSign
+x/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"CodeSign DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app25cdb72afccab741^9ca4552bfccab741^---0#0#0#-19%DVTDocumentLocation2@125"file://localhost/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/0000000000000000^945"CodeSign DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app    cd /Users/newsuzukihiromasa/Desktop/StreamMP3    setenv CODESIGN_ALLOCATE /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign --force --sign 8e72a3bdb14b5665b8d51cbcbab716ec47054420 --resource-rules=/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/ResourceRules.plist --entitlements /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Intermediates/StreamMP3.build/Debug-iphoneos/StreamMP3.build/StreamMP3.xcent /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app36"B365BC23-883D-4798-B2A9-61F647E07AF9-
+
+CCompileC DerivedData/StreamMP3/Build/Intermediates/StreamMP3.build/Debug-iphoneos/StreamMP3.build/Objects-normal/armv7/AppDelegate.o /Users/newsuzukihiromasa/Desktop/StreamMP3/StreamMP3/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s399178791.457921
+e399178791.779988
+r1
+xCompileC
+xDerivedData/StreamMP3/Build/Intermediates/StreamMP3.build/Debug-iphoneos/StreamMP3.build/Objects-normal/armv7/AppDelegate.o
+x/Users/newsuzukihiromasa/Desktop/StreamMP3/StreamMP3/AppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/newsuzukihiromasa/Desktop/StreamMP3/StreamMP3/AppDelegate.m9f717527fccab741^1b81c827fccab741^---0#0#0#-19%DVTDocumentLocation2@82"file://localhost/Users/newsuzukihiromasa/Desktop/StreamMP3/StreamMP3/AppDelegate.m0000000000000000^3800"CompileC DerivedData/StreamMP3/Build/Intermediates/StreamMP3.build/Debug-iphoneos/StreamMP3.build/Objects-normal/armv7/AppDelegate.o StreamMP3/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/StreamMP3    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Intermediates/StreamMP3.build/Debug-iphoneos/StreamMP3.build/StreamMP3-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Intermediates/StreamMP3.build/Debug-iphoneos/StreamMP3.build/StreamMP3-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Intermediates/StreamMP3.build/Debug-iphoneos/StreamMP3.build/StreamMP3-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Intermediates/StreamMP3.build/Debug-iphoneos/StreamMP3.build/StreamMP3-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Intermediates/StreamMP3.build/Debug-iphoneos/StreamMP3.build/DerivedSources/armv7 -I/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Intermediates/StreamMP3.build/Debug-iphoneos/StreamMP3.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos -include /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Intermediates/PrecompiledHeaders/StreamMP3-Prefix-eawsfeepfmjhfceozcpmvjvpygqu/StreamMP3-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Intermediates/StreamMP3.build/Debug-iphoneos/StreamMP3.build/Objects-normal/armv7/AppDelegate.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Intermediates/StreamMP3.build/Debug-iphoneos/StreamMP3.build/Objects-normal/armv7/AppDelegate.dia -c /Users/newsuzukihiromasa/Desktop/StreamMP3/StreamMP3/AppDelegate.m -o /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Intermediates/StreamMP3.build/Debug-iphoneos/StreamMP3.build/Objects-normal/armv7/AppDelegate.o36"7C86AD13-66A7-484D-A338-F1DFA46E1BB5-
+
+CCompileC DerivedData/StreamMP3/Build/Intermediates/StreamMP3.build/Debug-iphoneos/StreamMP3.build/Objects-normal/armv7/ViewController.o /Users/newsuzukihiromasa/Desktop/StreamMP3/StreamMP3/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s399178791.459121
+e399178791.771896
+r1
+xCompileC
+xDerivedData/StreamMP3/Build/Intermediates/StreamMP3.build/Debug-iphoneos/StreamMP3.build/Objects-normal/armv7/ViewController.o
+x/Users/newsuzukihiromasa/Desktop/StreamMP3/StreamMP3/ViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/newsuzukihiromasa/Desktop/StreamMP3/StreamMP3/ViewController.m59bf7527fccab741^1399c527fccab741^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/newsuzukihiromasa/Desktop/StreamMP3/StreamMP3/ViewController.m0000000000000000^3818"CompileC DerivedData/StreamMP3/Build/Intermediates/StreamMP3.build/Debug-iphoneos/StreamMP3.build/Objects-normal/armv7/ViewController.o StreamMP3/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/StreamMP3    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Intermediates/StreamMP3.build/Debug-iphoneos/StreamMP3.build/StreamMP3-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Intermediates/StreamMP3.build/Debug-iphoneos/StreamMP3.build/StreamMP3-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Intermediates/StreamMP3.build/Debug-iphoneos/StreamMP3.build/StreamMP3-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Intermediates/StreamMP3.build/Debug-iphoneos/StreamMP3.build/StreamMP3-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Intermediates/StreamMP3.build/Debug-iphoneos/StreamMP3.build/DerivedSources/armv7 -I/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Intermediates/StreamMP3.build/Debug-iphoneos/StreamMP3.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos -include /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Intermediates/PrecompiledHeaders/StreamMP3-Prefix-eawsfeepfmjhfceozcpmvjvpygqu/StreamMP3-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Intermediates/StreamMP3.build/Debug-iphoneos/StreamMP3.build/Objects-normal/armv7/ViewController.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Intermediates/StreamMP3.build/Debug-iphoneos/StreamMP3.build/Objects-normal/armv7/ViewController.dia -c /Users/newsuzukihiromasa/Desktop/StreamMP3/StreamMP3/ViewController.m -o /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Intermediates/StreamMP3.build/Debug-iphoneos/StreamMP3.build/Objects-normal/armv7/ViewController.o36"23479BB1-0BA6-46FA-955D-F18767A4212B-
+
+CCompileC DerivedData/StreamMP3/Build/Intermediates/StreamMP3.build/Debug-iphoneos/StreamMP3.build/Objects-normal/armv7/main.o /Users/newsuzukihiromasa/Desktop/StreamMP3/StreamMP3/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s399178791.773368
+e399178791.816622
+r1
+xCompileC
+xDerivedData/StreamMP3/Build/Intermediates/StreamMP3.build/Debug-iphoneos/StreamMP3.build/Objects-normal/armv7/main.o
+x/Users/newsuzukihiromasa/Desktop/StreamMP3/StreamMP3/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/newsuzukihiromasa/Desktop/StreamMP3/StreamMP3/main.mdf37c627fccab741^340ed127fccab741^---0#0#0#-19%DVTDocumentLocation2@75"file://localhost/Users/newsuzukihiromasa/Desktop/StreamMP3/StreamMP3/main.m0000000000000000^3758"CompileC DerivedData/StreamMP3/Build/Intermediates/StreamMP3.build/Debug-iphoneos/StreamMP3.build/Objects-normal/armv7/main.o StreamMP3/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/StreamMP3    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Intermediates/StreamMP3.build/Debug-iphoneos/StreamMP3.build/StreamMP3-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Intermediates/StreamMP3.build/Debug-iphoneos/StreamMP3.build/StreamMP3-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Intermediates/StreamMP3.build/Debug-iphoneos/StreamMP3.build/StreamMP3-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Intermediates/StreamMP3.build/Debug-iphoneos/StreamMP3.build/StreamMP3-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Intermediates/StreamMP3.build/Debug-iphoneos/StreamMP3.build/DerivedSources/armv7 -I/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Intermediates/StreamMP3.build/Debug-iphoneos/StreamMP3.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos -include /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Intermediates/PrecompiledHeaders/StreamMP3-Prefix-eawsfeepfmjhfceozcpmvjvpygqu/StreamMP3-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Intermediates/StreamMP3.build/Debug-iphoneos/StreamMP3.build/Objects-normal/armv7/main.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Intermediates/StreamMP3.build/Debug-iphoneos/StreamMP3.build/Objects-normal/armv7/main.dia -c /Users/newsuzukihiromasa/Desktop/StreamMP3/StreamMP3/main.m -o /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Intermediates/StreamMP3.build/Debug-iphoneos/StreamMP3.build/Objects-normal/armv7/main.o36"C73BD3DA-D494-4189-AE5A-8FB3443702E6-
+
+CCompileXIB /Users/newsuzukihiromasa/Desktop/StreamMP3/StreamMP3/en.lproj/ViewController.xib
+s399178792.559168
+e399178794.640657
+r1
+xCompileXIB
+x/Users/newsuzukihiromasa/Desktop/StreamMP3/StreamMP3/en.lproj/ViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compiling /Users/newsuzukihiromasa/Desktop/StreamMP3/StreamMP3/en.lproj/ViewController.xiba6478f28fccab741^1b11a42afccab741^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/newsuzukihiromasa/Desktop/StreamMP3/StreamMP3/en.lproj/ViewController.xib0000000000000000^890"CompileXIB StreamMP3/en.lproj/ViewController.xib    cd /Users/newsuzukihiromasa/Desktop/StreamMP3    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/en.lproj/ViewController.nib /Users/newsuzukihiromasa/Desktop/StreamMP3/StreamMP3/en.lproj/ViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk36"A4DC1F93-6738-4C9B-960B-FA5161BC873A-
+
+CCopyPNGFile /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/Default-568h@2x.png StreamMP3/Default-568h@2x.png
+s399178792.508544
+e399178792.634273
+r1
+xCopyPNGFile
+x/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/Default-568h@2x.png
+xStreamMP3/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"CopyPNGFile DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/Default-568h@2x.png StreamMP3/Default-568h@2x.png5a468228fccab741^c85fa228fccab741^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/newsuzukihiromasa/Desktop/StreamMP3/StreamMP3/Default-568h@2x.png0000000000000000^690"CopyPNGFile "DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/Default-568h@2x.png" "StreamMP3/Default-568h@2x.png"    cd /Users/newsuzukihiromasa/Desktop/StreamMP3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/newsuzukihiromasa/Desktop/StreamMP3/StreamMP3/Default-568h@2x.png" "/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/Default-568h@2x.png"36"372195DA-7BD3-474B-A7AD-CC16BD8314CD-
+
+CCopyPNGFile /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/Default.png StreamMP3/Default.png
+s399178792.105808
+e399178792.507193
+r1
+xCopyPNGFile
+x/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/Default.png
+xStreamMP3/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"CopyPNGFile DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/Default.png StreamMP3/Default.png66331b28fccab741^02d78128fccab741^---0#0#0#-19%DVTDocumentLocation2@80"file://localhost/Users/newsuzukihiromasa/Desktop/StreamMP3/StreamMP3/Default.png0000000000000000^650"CopyPNGFile DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/Default.png StreamMP3/Default.png    cd /Users/newsuzukihiromasa/Desktop/StreamMP3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/newsuzukihiromasa/Desktop/StreamMP3/StreamMP3/Default.png /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/Default.png36"77BAA5FF-8ADD-431D-89C4-7470F7D65723-
+
+CCopyPNGFile /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/Default@2x.png StreamMP3/Default@2x.png
+s399178792.112669
+e399178792.557795
+r1
+xCopyPNGFile
+x/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/Default@2x.png
+xStreamMP3/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"CopyPNGFile DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/Default@2x.png StreamMP3/Default@2x.pngc4ed1c28fccab741^53cb8e28fccab741^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/Users/newsuzukihiromasa/Desktop/StreamMP3/StreamMP3/Default@2x.png0000000000000000^670"CopyPNGFile "DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/Default@2x.png" "StreamMP3/Default@2x.png"    cd /Users/newsuzukihiromasa/Desktop/StreamMP3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/newsuzukihiromasa/Desktop/StreamMP3/StreamMP3/Default@2x.png" "/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/Default@2x.png"36"A8A56C73-87D2-4F36-A71F-9933F163F7DB-
+
+CCopyStringsFile /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/en.lproj/InfoPlist.strings StreamMP3/en.lproj/InfoPlist.strings
+s399178792.105816
+e399178792.111304
+r1
+xCopyStringsFile
+x/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/en.lproj/InfoPlist.strings
+xStreamMP3/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy StreamMP3/en.lproj/InfoPlist.strings50381b28fccab741^c37d1c28fccab741^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/newsuzukihiromasa/Desktop/StreamMP3/StreamMP3/en.lproj/InfoPlist.strings0000000000000000^632"CopyStringsFile DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/en.lproj/InfoPlist.strings StreamMP3/en.lproj/InfoPlist.strings    cd /Users/newsuzukihiromasa/Desktop/StreamMP3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/en.lproj -- StreamMP3/en.lproj/InfoPlist.strings36"9DED5A1E-C484-494C-8B28-3C77536856F9-
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/ResourceRules.plist
+s399178790.609336
+e399178790.616389
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist
+xDerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/ResourceRules.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Copy DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/ResourceRules.plist118b9c26fccab741^6bd69d26fccab741^---0#0#0#-19%DVTDocumentLocation2@144"file://localhost/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/ResourceRules.plist000000000080d041^800"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/ResourceRules.plist    cd /Users/newsuzukihiromasa/Desktop/StreamMP3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app36"F737D18F-73B5-4C17-8C90-63E87D9C12B8-
+
+CGenerateDSYMFile /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app.dSYM /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/StreamMP3
+s399178792.047172
+e399178792.097981
+r1
+xGenerateDSYMFile
+x/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app.dSYM
+x/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/StreamMP3
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Generate /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app.dSYM7c290c28fccab741^f5141928fccab741^---0#0#0#-19%DVTDocumentLocation2@129"file://localhost/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app.dSYM000000000080d041^738"GenerateDSYMFile DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app.dSYM DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/StreamMP3    cd /Users/newsuzukihiromasa/Desktop/StreamMP3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/StreamMP3 -o /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app.dSYM36"C8FF13EE-47E1-4C99-85A4-A8F70190927F-
+
+CLd /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/StreamMP3 normal armv7
+s399178791.823568
+e399178792.040760
+r1
+xLd
+x/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/StreamMP3
+xnormal
+xarmv7
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Link /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/StreamMP36ff3d227fccab741^ca6e0a28fccab741^---0#0#0#--1228"Ld DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/StreamMP3 normal armv7    cd /Users/newsuzukihiromasa/Desktop/StreamMP3    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -L/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos -F/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos -filelist /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Intermediates/StreamMP3.build/Debug-iphoneos/StreamMP3.build/Objects-normal/armv7/StreamMP3.LinkFileList -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=6.1 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/StreamMP336"5B304435-4201-4546-81CD-60EF3DFD0750-
+
+CProcessInfoPlistFile /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/Info.plist StreamMP3/StreamMP3-Info.plist
+s399178790.609344
+e399178790.617694
+r1
+xProcessInfoPlistFile
+x/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/Info.plist
+xStreamMP3/StreamMP3-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Process StreamMP3/StreamMP3-Info.plist978b9c26fccab741^9b209e26fccab741^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/newsuzukihiromasa/Desktop/StreamMP3/StreamMP3/StreamMP3-Info.plist0000000000000000^882"ProcessInfoPlistFile DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/Info.plist StreamMP3/StreamMP3-Info.plist    cd /Users/newsuzukihiromasa/Desktop/StreamMP3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility StreamMP3/StreamMP3-Info.plist -genpkginfo /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/ResourceRules.plist -o /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/Info.plist36"A88A13FF-EA0E-4787-9C21-DC658290235C-
+
+CProcessPCH /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Intermediates/PrecompiledHeaders/StreamMP3-Prefix-eawsfeepfmjhfceozcpmvjvpygqu/StreamMP3-Prefix.pch.pth StreamMP3/StreamMP3-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s399178790.625700
+e399178791.451528
+r1
+xProcessPCH
+x/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Intermediates/PrecompiledHeaders/StreamMP3-Prefix-eawsfeepfmjhfceozcpmvjvpygqu/StreamMP3-Prefix.pch.pth
+xStreamMP3/StreamMP3-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile StreamMP3/StreamMP3-Prefix.pch1a6aa026fccab741^3a967327fccab741^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/newsuzukihiromasa/Desktop/StreamMP3/StreamMP3/StreamMP3-Prefix.pch0000000000000000^3671"ProcessPCH DerivedData/StreamMP3/Build/Intermediates/PrecompiledHeaders/StreamMP3-Prefix-eawsfeepfmjhfceozcpmvjvpygqu/StreamMP3-Prefix.pch.pth StreamMP3/StreamMP3-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/StreamMP3    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Intermediates/StreamMP3.build/Debug-iphoneos/StreamMP3.build/StreamMP3-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Intermediates/StreamMP3.build/Debug-iphoneos/StreamMP3.build/StreamMP3-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Intermediates/StreamMP3.build/Debug-iphoneos/StreamMP3.build/StreamMP3-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Intermediates/StreamMP3.build/Debug-iphoneos/StreamMP3.build/StreamMP3-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Intermediates/StreamMP3.build/Debug-iphoneos/StreamMP3.build/DerivedSources/armv7 -I/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Intermediates/StreamMP3.build/Debug-iphoneos/StreamMP3.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Intermediates/PrecompiledHeaders/StreamMP3-Prefix-eawsfeepfmjhfceozcpmvjvpygqu/StreamMP3-Prefix.pch.dia -c /Users/newsuzukihiromasa/Desktop/StreamMP3/StreamMP3/StreamMP3-Prefix.pch -o /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Intermediates/PrecompiledHeaders/StreamMP3-Prefix-eawsfeepfmjhfceozcpmvjvpygqu/StreamMP3-Prefix.pch.pth -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Intermediates/PrecompiledHeaders/StreamMP3-Prefix-eawsfeepfmjhfceozcpmvjvpygqu/StreamMP3-Prefix.pch.d36"9F3D06E5-397F-4470-83F2-CFD9FE3084A1-
+
+CProcessPCH /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Index/PrecompiledHeaders/StreamMP3-Prefix-cmucakhtjyzrardrwmalarrznhrr_ast/StreamMP3-Prefix.pch.pth StreamMP3/StreamMP3-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessProductPackaging "/Users/newsuzukihiromasa/Library/MobileDevice/Provisioning Profiles/EA0C47AC-0540-45FD-A882-C289BDFD862D.mobileprovision" /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/embedded.mobileprovision
+s399178794.665976
+e399178794.672172
+r1
+xProcessProductPackaging
+x/Users/newsuzukihiromasa/Library/MobileDevice/Provisioning Profiles/EA0C47AC-0540-45FD-A882-C289BDFD862D.mobileprovision
+x/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/embedded.mobileprovision
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection237"ProcessProductPackaging "/Users/newsuzukihiromasa/Library/MobileDevice/Provisioning Profiles/EA0C47AC-0540-45FD-A882-C289BDFD862D.mobileprovision" DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/embedded.mobileprovisiondca0aa2afccab741^2426ac2afccab741^---0#0#0#-19%DVTDocumentLocation2@149"file://localhost/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/embedded.mobileprovision0000000000000000^772"ProcessProductPackaging "/Users/newsuzukihiromasa/Library/MobileDevice/Provisioning Profiles/EA0C47AC-0540-45FD-A882-C289BDFD862D.mobileprovision" DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/embedded.mobileprovision    cd /Users/newsuzukihiromasa/Desktop/StreamMP3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility "/Users/newsuzukihiromasa/Library/MobileDevice/Provisioning Profiles/EA0C47AC-0540-45FD-A882-C289BDFD862D.mobileprovision" -o /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app/embedded.mobileprovision36"258752A3-3FFE-41E7-BD29-09564E4070A8-
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Intermediates/StreamMP3.build/Debug-iphoneos/StreamMP3.build/StreamMP3.xcent
+s399178794.704128
+e399178794.709373
+r1
+xProcessProductPackaging
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist
+x/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Intermediates/StreamMP3.build/Debug-iphoneos/StreamMP3.build/StreamMP3.xcent
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection249"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist DerivedData/StreamMP3/Build/Intermediates/StreamMP3.build/Debug-iphoneos/StreamMP3.build/StreamMP3.xcent9964b42afccab741^9e98b52afccab741^---0#0#0#-19%DVTDocumentLocation2@163"file://localhost/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Intermediates/StreamMP3.build/Debug-iphoneos/StreamMP3.build/StreamMP3.xcent000000000080d041^822"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist DerivedData/StreamMP3/Build/Intermediates/StreamMP3.build/Debug-iphoneos/StreamMP3.build/StreamMP3.xcent    cd /Users/newsuzukihiromasa/Desktop/StreamMP3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Intermediates/StreamMP3.build/Debug-iphoneos/StreamMP3.build/StreamMP3.xcent36"FDB1C298-2AD0-4282-8376-B5A55FFF1ED7-
+
+CTouch /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app
+s399178794.680197
+e399178794.695596
+r1
+xTouch
+x/Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Touch /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.appb03aae2afccab741^b612b22afccab741^---0#0#0#--441"Touch DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app    cd /Users/newsuzukihiromasa/Desktop/StreamMP3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/newsuzukihiromasa/Desktop/StreamMP3/DerivedData/StreamMP3/Build/Products/Debug-iphoneos/StreamMP3.app36"7BBBB25C-C427-4DBA-BEB5-A714D49E71AE-
+
